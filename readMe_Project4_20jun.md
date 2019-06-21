@@ -1,4 +1,7 @@
-This project was the final project in the
+This project was the final project completed for the Udacity Data Analytics Nanodegree program. Reviewer's comments are in a separate file.
+
+(Udacity is a for-profit educational organization that offers online courses. udacity.com)
+pml 20jun19
 
 
 # Ford GoBike System Data

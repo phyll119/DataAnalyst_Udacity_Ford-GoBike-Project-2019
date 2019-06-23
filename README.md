@@ -7,9 +7,10 @@ For those who want to read the the Udacity reviewer's comments see the .pdf file
 </p>
 
 Prerequisites
-<p>The project 'Explanatory' files are provided in .ipynb and .html formats.
+<p>The project 'Explanatory' files are provided in .ipynb and .html formats. Note the .html file is too large to view on GitHub. The .ipynp notebook file can be viewed on GitHub.
 The slidedeck is provided in .ipynb and .html formats.
 </p>
-<p>Jupyter notebook is required to read the .ipynb files for the project and slide deck. The project notebook file, 'Ford_GoBike_Project_ExploratoryAnalysis', can be downloaded but cannot viewed on GitHub because of its size. The file is also provided in .html format.
+<p>Jupyter notebook is required to read downloaded .ipynb files. </p> 
+<p>
 The slide show slides.html may need the output_toggle.tpl file to run.
 </p>

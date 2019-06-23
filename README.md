@@ -11,6 +11,4 @@ Prerequisites
 The slidedeck is provided in .ipynb and .html formats.
 </p>
 <p>Jupyter notebook is required to read downloaded .ipynb files. </p> 
-<p>
-The slide show slides.html may need the output_toggle.tpl file to run.
-</p>
+
